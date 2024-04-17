@@ -15,19 +15,19 @@ export default function App() {
 </Text>
 <Text style={styles.app}>app!</Text>
 <Button title="My name is: " color="green" >
-        Hi
+        Guess who?
       </Button>
       <Text style={styles.name}>Sonaa Rajagopal</Text>
       
       <Button title="My Reg No. is:" color="blue" >
-        Hi
+        Guess what?
       </Button>
       <Text style={styles.regno}>22MIS1028</Text>
       
       <Text style={styles.more}>To get to know </Text>
       <Text style={styles.more}>more about the app,</Text>
       <Button title="Stay Tuned!" color="red" >
-        Hi
+        Surprise!
       </Button>
      
       
