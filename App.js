@@ -8,7 +8,7 @@ export default function App() {
   <Text style={styles.welcome}>
   <Text style={{ color: 'purple' }}>A</Text>
   <Text style={{ color: 'green' }}>N</Text>
-  <Text style={{ color: 'blue' }}>I</Text>
+  <Text style={{ color: 'red' }}>I</Text>
   <Text style={{ color: 'green' }}>N</Text>
   <Text style={{ color: 'purple' }}>A</Text>
   
